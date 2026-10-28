@@ -1,0 +1,130 @@
+{
+  "schema_version": 1,
+  "case_count": 6,
+  "cases": [
+    {
+      "id": "C01",
+      "author": "Rico有三猫",
+      "title": "我用skill做了条猫咪视角短片，看哭了🥹",
+      "source_url": "https://www.xiaohongshu.com/explore/6a71cf2e000000002203255f",
+      "published_at": "2026-08-04",
+      "sample_form": "成果＋制作教程",
+      "summary": "用猫咪视角短片吸引观众，再分享从灵感到成片的过程，把兴趣带到制作工具和方法。",
+      "cooperation_evidence": "商汤Seko AI（2026-10-19合作记录已核对）",
+      "cover_file": "covers/C01.jpg",
+      "cover_sha256": "85d8e64620adcea08cda48f99506ef5ab4b5dd123c691a11c063327b9624affa",
+      "text_file": "source-texts/C01.md",
+      "evidence_level": "curated_learning_digest_from_note_body",
+      "transfer_limits": [
+        "养猫年限、人物经历和合作记录属于原作者，不转为学员事实。",
+        "公开包是基于原笔记正文的学习摘要，没有本条完整视频口播；不脑补分镜或软件操作。"
+      ],
+      "text_sha256": "53e395ea5e63e0362473ea69434aba0af488d358f1fff6cae944b7a716923fc1",
+      "source_material_level": "note_body_only_no_video_transcript",
+      "distributed_text_type": "learning_digest_not_verbatim_transcript"
+    },
+    {
+      "id": "C02",
+      "author": "知知乍现",
+      "title": "告别AI味，做出流畅的电影质感视频",
+      "source_url": "https://www.xiaohongshu.com/explore/6a4b74b0000000001702e720",
+      "published_at": "2026-07-07",
+      "sample_form": "成果＋制作教程",
+      "summary": "先展示多种电影运镜效果，再演示在工具里组合运镜、风格提示词，并补充表情和站位控制。可以学“效果展示→操作→效果变化”的表达。",
+      "cooperation_evidence": "内容形式参考，商业合作未核实。",
+      "cover_file": "covers/C02.jpg",
+      "cover_sha256": "e1eaff4681a73e2e626fe6a50d78d1e3da05fec97c38485654227df872151323",
+      "text_file": "source-texts/C02.md",
+      "evidence_level": "curated_learning_digest_from_prior_transcript",
+      "transfer_limits": [
+        "可学习效果展示与工具操作的衔接；产品名、术语存在转写误差。",
+        "提示词数量及示范效果属于来源记录，不意味着学员已有同样素材或本次已验证。",
+        "公开包仅附学习摘要，不声称已读取原视频完整逐字稿；需要精确语气时使用本次提供的完整参考。"
+      ],
+      "text_sha256": "ab05e705c420ca36b9d509b70a58bfbfd721071d853f9b351e5549192684311c",
+      "source_material_level": "full_extracted_text_with_transcription_noise",
+      "distributed_text_type": "learning_digest_not_verbatim_transcript"
+    },
+    {
+      "id": "C03",
+      "author": "珍妮丁丁说AI",
+      "title": "6款Agent实测，小白首选谁？",
+      "source_url": "https://www.xiaohongshu.com/explore/6a55104c000000001c025cd8",
+      "published_at": "2026-08-21",
+      "sample_form": "软件测评",
+      "summary": "围绕“新手第一款Agent怎么选”，比较上手门槛、界面和功能生态，再给出适用人群。学习比较维度与表达结构，不直接沿用作者的旧排名。",
+      "cooperation_evidence": "内容形式参考，商业合作未核实。",
+      "cover_file": "covers/C03.jpg",
+      "cover_sha256": "faa7f172545dfdfa0ea29cda176ebdc1914d657125e516a41425acb545967c6e",
+      "text_file": "source-texts/C03.md",
+      "evidence_level": "curated_learning_digest_from_prior_transcript",
+      "transfer_limits": [
+        "只学习新手选择问题和比较维度，不继承旧榜单、模型强弱、价格或账号政策判断。",
+        "来源中的作者体验不是学员亲测。",
+        "公开包仅附学习摘要，不声称已读取原视频完整逐字稿；需要精确语气时使用本次提供的完整参考。"
+      ],
+      "text_sha256": "4b6da7867a027f19bb2d58584adcb52a336ffcfaa0fb606f1c562901a21faf65",
+      "source_material_level": "full_extracted_text_with_transcription_noise",
+      "distributed_text_type": "learning_digest_not_verbatim_transcript"
+    },
+    {
+      "id": "C04",
+      "author": "响响AI研究所",
+      "title": "千问办公新模型实测：到底能省多少积分？",
+      "source_url": "https://www.xiaohongshu.com/explore/6a953d840000000025024d5d",
+      "published_at": "2026-09-03",
+      "sample_form": "软件测评",
+      "summary": "把相同资料交给新旧模型，展示报告成品，再比较制作速度、结果质量和本次积分消耗。可以学“同任务实测→展示结果→解释差异”。",
+      "cooperation_evidence": "内容形式参考，商业合作未核实。",
+      "cover_file": "covers/C04.jpg",
+      "cover_sha256": "7832f3a1b87a1ae9f693fd810a75b3ec4baab8dccc12d53fccc8ec003564925b",
+      "text_file": "source-texts/C04.md",
+      "evidence_level": "curated_learning_digest_from_prior_transcript",
+      "transfer_limits": [
+        "学习同任务比较产物、速度与成本的结构。",
+        "源视频中的具体积分、耗时和版本是作者当次记录，不能变成学员实测或当前产品承诺。",
+        "公开包仅附学习摘要，不声称已读取原视频完整逐字稿；需要精确语气时使用本次提供的完整参考。"
+      ],
+      "text_sha256": "66844e25281673e5e57cc1a8f0fb18f6c331f3a366097a4fcb7c26da1e394ae5",
+      "source_material_level": "full_extracted_text_with_transcription_noise",
+      "distributed_text_type": "learning_digest_not_verbatim_transcript"
+    },
+    {
+      "id": "C05",
+      "author": "还是yutong",
+      "title": "4个技巧，让AI做的HTML版PPT更高级",
+      "source_url": "https://www.xiaohongshu.com/explore/6a79cee70000000008013b7d",
+      "published_at": "2026-08-10",
+      "sample_form": "单款软件教程",
+      "summary": "围绕“把AI生成的PPT做得更好”展开，适合学习怎样把产品功能讲成用户能照做的具体技巧。",
+      "cooperation_evidence": "钉钉（2026-10-19合作记录已核对）",
+      "cover_file": "covers/C05.jpg",
+      "cover_sha256": "9f1d04cacf8e860480d4188825e0fdc47d549dd3ac4d7a876f7ccd87e34e8500",
+      "text_file": null,
+      "evidence_level": "title_cover_and_existing_summary",
+      "transfer_limits": [
+        "已有标题、封面、合作记录和摘要，没有本条完整转写。",
+        "不能从标题推断具体按钮、四个技巧的内容或完整操作流程。"
+      ]
+    },
+    {
+      "id": "C06",
+      "author": "cici进化论",
+      "title": "薛甄珠找小三仙界版｜AI生成剪辑一站式教程",
+      "source_url": "https://www.xiaohongshu.com/explore/6ab4b10f000000001802e553",
+      "published_at": "2026-09-25",
+      "sample_form": "单款软件教程",
+      "summary": "把一个有辨识度的短片效果与一站式制作教程结合，用户既能看到成果，也能找到动手的方法。",
+      "cooperation_evidence": "剪映官方小助手（2026-10-19合作记录已核对）",
+      "cover_file": "covers/C06.jpg",
+      "cover_sha256": "df8312f244319abfeb7d0553298ff4fa15dce4cf843851708aa4ec9216d0ddc8",
+      "text_file": null,
+      "evidence_level": "title_cover_and_existing_summary",
+      "transfer_limits": [
+        "已有标题、封面、合作记录和摘要，没有本条完整转写。",
+        "不能从标题推断具体按钮、四个技巧的内容或完整操作流程。"
+      ]
+    }
+  ],
+  "distribution": "public_learning_edition"
+}

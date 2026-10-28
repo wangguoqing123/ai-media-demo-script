@@ -1,0 +1,4 @@
+interface:
+  display_name: "商单样片脚本助手"
+  short_description: "从真实案例与实操素材提炼看点，写有吸引力、用代号呈现产品的样片脚本"
+  default_prompt: "使用 $ai-media-demo-script，先判断我的素材是否够写，再参考真实案例提炼开头和效果看点，按实际操作完成商单样片脚本。"
